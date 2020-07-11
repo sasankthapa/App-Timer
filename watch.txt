@@ -1,0 +1,4 @@
+{
+    "watch":["code","youtube","terminal"],
+    "SLEEP_TIME":"10"
+}
